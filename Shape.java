@@ -25,6 +25,6 @@ public interface Shape
    * Gets the shape's color
    * 
    * @return    The color
-   */
-  String getColor();
+   
+  String getColor(); */
 }
